@@ -26,7 +26,7 @@
    text-decoration: none !important;
  }
 
- .popup {
+ .modal {
     position: fixed;
     z-index: 1;
     padding: 2em;
@@ -52,6 +52,6 @@
     text-decoration: none;
  }
 
- .cancel-button:hover {
+ .cancel:hover {
     background-color: #2640fe;
  }
